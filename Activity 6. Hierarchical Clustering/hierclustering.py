@@ -16,7 +16,7 @@ from sklearn.decomposition import PCA
 
 
 # 0. Load Data
-f = codecs.open("Carectiristicas.csv", "r", "utf-8")
+f = codecs.open("Caracteristicas.csv", "r", "utf-8")
 states = []
 count = 0
 for line in f:
@@ -59,7 +59,7 @@ labels = cluster.hierarchy.fcluster(clusters, cut , criterion = 'distance')
 print 'Number of clusters %d' % (len(set(labels)))
 
 
-reader = csv.reader(open('Carectiristicas.csv', 'rb'))
+reader = csv.reader(open('Caracteristicas.csv', 'rb'))
 archivo=open ("CaracteristicasC.csv","a")
 #archivo.write("Cluster, Numero de Accidentes por Cluster, Numero de accidentes por salida,  numero de accidentes por Alcance,  Numero de accidentes por Vuelco,  Numero de accidentes por tijera,  numero de accidentes por atropello,  Numero de accidentes por nivel Amarillo,  Numero de Accidentes por Nivel Blanco,  Numero de accidentes por nivel Negro,  Numero de accidentes por nivel Rojo")
 

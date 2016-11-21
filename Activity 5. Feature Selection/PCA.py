@@ -11,7 +11,7 @@ from sklearn import preprocessing
 import sklearn.cluster
 
 # 0. Load Data
-f = codecs.open("Carectiristicas.csv", "r", "utf-8")
+f = codecs.open("Caracteristicas.csv", "r", "utf-8")
 states = []
 count = 0
 for line in f:
@@ -45,10 +45,10 @@ numbers = numpy.arange(len(X_pca))
 fig, ax = plt.subplots()
 
 for i in range(len(X_pca)):
-    plt.text(X_pca[i][0], X_pca[i][1], numbers[i], color=colors[labels[i]]) 
+    plt.text(X_pca[i][0], X_pca[i][1], 'x', color=colors[labels[i]])
    
-plt.xlim(-1, 4)
-plt.ylim(-0.2, 1)
+plt.xlim(-2, 3)
+plt.ylim(-0.8, 1)
 
 
 ax.grid(True)
