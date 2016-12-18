@@ -10,6 +10,8 @@ archivo=open ("incidentsarabaporaccidente.csv","a")
 archivo.write("tipo,autonomia,provincia,matricula,causa,poblacion,fechahora_ini,nivel,carretera,pk_inicial,pk_final,sentido,longitud,latitud")
 archivo.write("\n")
 
+# Incidents for ARABA and the type Accident
+
 incidencias = doc.getElementsByTagName("incidenciaGeolocalizada")
 for incidencia in incidencias:
 

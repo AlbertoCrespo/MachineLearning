@@ -25,6 +25,8 @@ def CalculateError(Z,test):
 df = pd.read_csv('incidentsarabaaccidentC.csv')
 data = df.as_matrix(columns=['latitud', 'longitud','cluster'])
 
+print(data)
+
 
 #Division of original data to train and predict
 trainingX = []
