@@ -37,12 +37,12 @@ Numero_de_accidentes_por_Nivel_Rojo = iniciar(Numero_de_accidentes_por_Nivel_Roj
 
 
 
-archivo=open ("Caracteristicas.csv","a")
+archivo=open ('../1-Data/Caracteristicas.csv',"a")
 archivo.write("Cluster,Numero de Accidentes por Cluster,Numero de accidentes por salida, numero de accidentes por Alcance, Numero de accidentes por Vuelco, Numero de accidentes por tijera, numero de accidentes por atropello, Numero de accidentes por nivel Amarillo, Numero de Accidentes por Nivel Blanco, Numero de accidentes por nivel Negro, Numero de accidentes por nivel Rojo")
 archivo.write("\n")
 
 
-con = sqlite3.connect('BD.db')
+con = sqlite3.connect('../1-Data/BD.db')
 cursor = con.cursor()
 
 

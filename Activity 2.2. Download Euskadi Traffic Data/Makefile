@@ -1,7 +1,7 @@
 all : borrar ejecutar
 
 borrar:
-	rm incidentsaraba.csv
+	rm '../1-Data/incidentsaraba.csv'
 
 ejecutar: 
 	python Script.py 

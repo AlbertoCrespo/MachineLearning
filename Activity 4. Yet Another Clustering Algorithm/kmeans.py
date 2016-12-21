@@ -19,7 +19,7 @@ def plotdata(data,labels,name):
 
 
 #Load data (latitude and longitude) of the province of Araba filtered by type: accident
-df = pd.read_csv('incidentsarabaporaccidente.csv')
+df = pd.read_csv('../1-Data/incidentsarabaporaccidente.csv')
 data = df.as_matrix(columns=['latitud', 'longitud'])
 
 # 2. Setting parameters (ad-hoc)

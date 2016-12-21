@@ -1,7 +1,7 @@
 all : borrar ejecutar
 
 borrar:
-	rm CaracteristicasC.csv
+	rm '../1-Data/CaracteristicasC.csv'
 
 ejecutar: 
 	python hierclustering.py

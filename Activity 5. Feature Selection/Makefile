@@ -1,9 +1,9 @@
 all : borrar ejecutar
 
 borrar:
-	rm incidentsarabaporaccidenteC.csv
-	rm BD.db
-	rm Caracteristicas.csv
+	rm '../1-Data/incidentsarabaporaccidenteC.csv'
+	rm '../1-Data/BD.db'
+	rm '../1-Data/Caracteristicas.csv'
 
 ejecutar: 
 	python SacarLabels.py

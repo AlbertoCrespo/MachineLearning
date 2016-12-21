@@ -22,7 +22,7 @@ def CalculateError(Z,test):
 
 
 #Reading the initial data
-df = pd.read_csv('incidentsarabaaccidentC.csv')
+df = pd.read_csv('../1-Data/incidentsarabaporaccidenteC.csv')
 data = df.as_matrix(columns=['latitud', 'longitud','cluster'])
 
 print(data)
@@ -84,7 +84,7 @@ clf.fit(trainingXT, trainingYT)
 
 
 #We read the data of incidents of type "Works" of the province of Araba
-df = pd.read_csv('incidentsarabaworks.csv')
+df = pd.read_csv('../1-Data/incidentsarabaworks.csv')
 data = df.as_matrix(columns=['latitud', 'longitud'])
 
 data_works = []
@@ -98,8 +98,8 @@ Z = clf.predict(data_works)
 
 
 #We write the results in a new CSV file
-reader = csv.reader(open('incidentsarabaworks.csv', 'rb'))
-archivo=open ("incidentsarabaworksC.csv","a")
+reader = csv.reader(open('../1-Data/incidentsarabaworks.csv', 'rb'))
+archivo=open ('../1-Data/incidentsarabaworksC.csv',"a")
 
 x = 0
 

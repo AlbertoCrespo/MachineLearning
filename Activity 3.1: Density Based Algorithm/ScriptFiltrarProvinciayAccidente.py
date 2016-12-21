@@ -5,8 +5,8 @@
 from xml.dom import minidom
 import csv
 
-doc = minidom.parse("inc2006.xml")
-archivo=open ("incidentsarabaporaccidente.csv","a")
+doc = minidom.parse('../1-Data/inc2006.xml')
+archivo=open ('../1-Data/incidentsarabaporaccidente.csv',"a")
 archivo.write("tipo,autonomia,provincia,matricula,causa,poblacion,fechahora_ini,nivel,carretera,pk_inicial,pk_final,sentido,longitud,latitud")
 archivo.write("\n")
 

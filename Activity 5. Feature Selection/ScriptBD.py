@@ -4,7 +4,7 @@ import csv
 
 #CREAMOS LA BD
 
-con = sqlite3.connect('BD.db')
+con = sqlite3.connect('../1-Data/BD.db')
 
 cursor = con.cursor()
 
@@ -35,10 +35,10 @@ cursor.execute(''' CREATE TABLE ACCIDENTES (
 cursor.close()
 con.close()
 
-con = sqlite3.connect('BD.db')
+con = sqlite3.connect('../1-Data/BD.db')
 cursor = con.cursor()
 
-reader = csv.reader(open('incidentsarabaporaccidenteC.csv', 'rb'))
+reader = csv.reader(open('../1-Data/incidentsarabaporaccidenteC.csv', 'rb'))
 x = 0
 y = 1
 for index,row in enumerate(reader):

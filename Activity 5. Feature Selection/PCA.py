@@ -11,7 +11,7 @@ from sklearn import preprocessing
 import sklearn.cluster
 
 # 0. Load Data
-f = codecs.open("Caracteristicas.csv", "r", "utf-8")
+f = codecs.open('../1-Data/Caracteristicas.csv', "r", "utf-8")
 states = []
 count = 0
 for line in f:
