@@ -1,0 +1,123 @@
+Cluster,Numero de Accidentes por Cluster,Numero de accidentes por salida, numero de accidentes por Alcance, Numero de accidentes por Vuelco, Numero de accidentes por tijera, numero de accidentes por atropello, Numero de accidentes por nivel Amarillo, Numero de Accidentes por Nivel Blanco, Numero de accidentes por nivel Negro, Numero de accidentes por nivel Rojo,Class
+-1,301,122,107,42,9,21,46,250,2,3,Nivel Alto
+0,13,5,1,7,0,0,1,10,0,2,No hay Obras
+1,12,5,3,4,0,0,3,9,0,0,No hay Obras
+2,30,3,16,11,0,0,11,14,1,4,No hay Obras
+3,31,9,12,8,2,0,9,17,0,5,No hay Obras
+4,22,10,12,0,0,0,4,17,0,0,No hay Obras
+5,24,10,7,4,0,3,2,22,0,0,No hay Obras
+6,32,7,18,3,0,4,5,26,0,1,Nivel Bajo
+7,7,5,2,0,0,0,0,4,3,0,No hay Obras
+8,55,9,33,12,0,1,21,33,1,0,Nivel Medio
+9,5,1,4,0,0,0,0,5,0,0,Nivel Bajo
+10,6,4,0,2,0,0,1,5,0,0,Nivel Bajo
+11,16,11,1,3,0,1,0,16,0,0,Nivel Medio
+12,6,1,5,0,0,0,4,2,0,0,No hay Obras
+13,29,2,26,0,0,1,5,24,0,0,Nivel Bajo
+14,6,3,3,0,0,0,0,6,0,0,No hay Obras
+15,24,14,10,0,0,0,7,16,0,1,Nivel Bajo
+16,19,4,9,6,0,0,5,14,0,0,Nivel Bajo
+17,26,2,18,6,0,0,10,16,0,0,Nivel Bajo
+18,19,8,11,0,0,0,1,18,0,0,No hay Obras
+19,13,3,0,10,0,0,0,13,0,0,Nivel Bajo
+20,6,2,4,0,0,0,3,3,0,0,No hay Obras
+21,12,4,7,1,0,0,2,10,0,0,No hay Obras
+22,14,4,7,3,0,0,4,10,0,0,Nivel Bajo
+23,7,4,3,0,0,0,2,5,0,0,Nivel Bajo
+24,20,0,8,12,0,0,3,13,0,4,Nivel Bajo
+25,56,4,44,7,1,0,9,40,0,7,Nivel Bajo
+26,18,10,4,0,0,4,1,17,0,0,Nivel Bajo
+27,6,1,4,1,0,0,0,6,0,0,Nivel Bajo
+28,31,3,23,2,3,0,6,19,2,4,No hay Obras
+29,5,1,4,0,0,0,2,3,0,0,No hay Obras
+30,13,8,4,1,0,0,3,10,0,0,No hay Obras
+31,8,4,1,3,0,0,0,8,0,0,Nivel Medio
+32,9,0,3,5,0,1,0,9,0,0,No hay Obras
+33,5,3,2,0,0,0,2,3,0,0,No hay Obras
+34,23,5,11,0,7,0,7,14,2,0,No hay Obras
+35,6,0,0,6,0,0,5,1,0,0,No hay Obras
+36,5,0,5,0,0,0,0,5,0,0,No hay Obras
+37,20,6,0,14,0,0,7,5,3,5,No hay Obras
+38,18,6,12,0,0,0,2,16,0,0,Nivel Bajo
+39,5,2,2,1,0,0,0,5,0,0,No hay Obras
+40,16,4,11,1,0,0,6,9,0,0,Nivel Bajo
+41,17,6,1,10,0,0,1,10,1,5,No hay Obras
+42,12,8,4,0,0,0,2,9,0,0,No hay Obras
+43,17,5,9,2,0,1,7,10,0,0,No hay Obras
+44,12,2,9,1,0,0,5,4,3,0,No hay Obras
+45,37,4,14,19,0,0,11,13,1,12,No hay Obras
+46,10,3,7,0,0,0,2,8,0,0,No hay Obras
+47,27,7,7,2,8,3,5,21,0,1,No hay Obras
+48,27,5,16,5,0,1,1,26,0,0,Nivel Bajo
+49,5,4,1,0,0,0,0,5,0,0,Nivel Bajo
+50,22,10,6,6,0,0,1,21,0,0,Nivel Medio
+51,30,2,22,6,0,0,1,29,0,0,No hay Obras
+52,13,2,6,4,0,1,4,9,0,0,Nivel Bajo
+53,8,4,3,1,0,0,0,8,0,0,Nivel Bajo
+54,17,2,15,0,0,0,4,5,3,5,No hay Obras
+55,11,8,2,0,0,1,0,11,0,0,Nivel Bajo
+56,7,0,4,2,0,1,1,6,0,0,No hay Obras
+57,6,3,2,1,0,0,0,6,0,0,No hay Obras
+58,6,0,6,0,0,0,0,6,0,0,No hay Obras
+59,14,5,1,8,0,0,5,9,0,0,Nivel Bajo
+60,22,0,8,14,0,0,2,19,0,0,Nivel Bajo
+61,11,11,0,0,0,0,0,8,0,2,No hay Obras
+62,5,2,2,1,0,0,0,4,1,0,No hay Obras
+63,10,2,2,6,0,0,6,3,1,0,No hay Obras
+64,6,6,0,0,0,0,2,4,0,0,No hay Obras
+65,14,9,5,0,0,0,7,7,0,0,Nivel Bajo
+66,13,9,4,0,0,0,0,13,0,0,Nivel Bajo
+67,5,0,5,0,0,0,3,2,0,0,Nivel Bajo
+68,5,0,4,1,0,0,2,3,0,0,No hay Obras
+69,8,4,4,0,0,0,0,8,0,0,Nivel Bajo
+70,6,3,2,1,0,0,0,6,0,0,Nivel Bajo
+71,6,1,1,3,0,1,0,6,0,0,No hay Obras
+72,9,0,9,0,0,0,4,5,0,0,Nivel Bajo
+73,7,6,0,1,0,0,1,6,0,0,Nivel Medio
+74,16,4,4,7,0,1,2,14,0,0,No hay Obras
+75,6,5,1,0,0,0,3,3,0,0,No hay Obras
+76,9,0,0,9,0,0,4,4,1,0,No hay Obras
+77,6,6,0,0,0,0,1,5,0,0,No hay Obras
+78,6,4,0,1,0,1,0,6,0,0,Nivel Medio
+79,7,1,1,5,0,0,0,7,0,0,No hay Obras
+80,19,6,8,0,5,0,10,7,0,2,No hay Obras
+81,15,6,0,9,0,0,3,12,0,0,Nivel Medio
+82,5,2,2,1,0,0,3,2,0,0,No hay Obras
+83,6,5,1,0,0,0,0,6,0,0,No hay Obras
+84,12,5,7,0,0,0,0,12,0,0,Nivel Bajo
+85,10,2,4,4,0,0,0,10,0,0,No hay Obras
+86,23,10,9,4,0,0,9,14,0,0,No hay Obras
+87,7,6,0,1,0,0,0,7,0,0,Nivel Bajo
+88,17,5,7,5,0,0,2,15,0,0,No hay Obras
+89,9,6,1,1,1,0,0,9,0,0,Nivel Bajo
+90,11,3,3,4,0,1,5,4,0,2,Nivel Medio
+91,20,12,4,4,0,0,10,6,1,3,No hay Obras
+92,18,12,3,3,0,0,7,8,0,3,No hay Obras
+93,8,0,8,0,0,0,0,8,0,0,No hay Obras
+94,10,2,3,5,0,0,2,8,0,0,No hay Obras
+95,7,5,2,0,0,0,0,7,0,0,No hay Obras
+96,11,2,0,9,0,0,5,6,0,0,Nivel Bajo
+97,19,12,7,0,0,0,9,10,0,0,Nivel Bajo
+98,10,4,1,3,0,2,0,10,0,0,Nivel Medio
+99,16,3,0,13,0,0,8,6,2,0,No hay Obras
+100,5,5,0,0,0,0,0,5,0,0,Nivel Bajo
+101,22,10,4,0,8,0,6,7,7,2,No hay Obras
+102,6,2,0,4,0,0,4,2,0,0,No hay Obras
+103,11,5,0,0,6,0,4,7,0,0,Nivel Medio
+104,13,5,0,8,0,0,4,6,0,3,No hay Obras
+105,7,0,3,4,0,0,2,5,0,0,No hay Obras
+106,5,5,0,0,0,0,3,2,0,0,Nivel Bajo
+107,8,4,0,3,0,1,0,8,0,0,Nivel Medio
+108,10,4,2,4,0,0,5,5,0,0,Nivel Medio
+109,7,5,2,0,0,0,3,4,0,0,Nivel Medio
+110,8,2,5,1,0,0,1,7,0,0,No hay Obras
+111,7,2,2,2,1,0,0,7,0,0,Nivel Medio
+112,5,4,1,0,0,0,1,4,0,0,No hay Obras
+113,18,10,6,2,0,0,7,11,0,0,No hay Obras
+114,5,4,1,0,0,0,0,5,0,0,Nivel Bajo
+115,12,9,3,0,0,0,1,11,0,0,No hay Obras
+116,15,9,3,3,0,0,6,9,0,0,No hay Obras
+117,5,0,5,0,0,0,4,1,0,0,No hay Obras
+118,9,1,0,8,0,0,3,6,0,0,Nivel Bajo
+119,8,0,7,0,0,1,0,8,0,0,Nivel Medio
+120,5,2,3,0,0,0,0,5,0,0,No hay Obras
